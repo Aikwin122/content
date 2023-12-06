@@ -1,3 +1,5 @@
+![Screenshot_၂၀၂၃-၁၂-၀၆-၁၅-၀၃-၃၁-၆၅_b783bf344239542886fee7b48fa4b892](https://github.com/mdn/content/assets/153123128/f347da2f-6344-4519-b95f-83650eb60453)
+![Screenshot_၂၀၂၃-၁၂-၀၇-၀၁-၁၅-၃၄-၃၁_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/mdn/content/assets/153123128/b43f2cca-1adf-4a26-93a7-8f3877d6da06)
 ---
 title: "PublicKeyCredential: isUserVerifyingPlatformAuthenticatorAvailable() static method"
 short-title: isUserVerifyingPlatformAuthenticatorAvailable()
